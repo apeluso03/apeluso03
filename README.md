@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex Peluso @apeluso03
+- 👀 I’m interested in Software Engineering, Web Development, and Game Design
+- 📫 How to reach me - email: apeluso@udel.edu | website: apeluso03.github.io | LinkedIn: alexpeluso
